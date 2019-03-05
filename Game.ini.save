@@ -1,0 +1,13 @@
+[/Script/ShooterGame.ShooterGameMode]
+NPCReplacements=(FromClassName="Troodon_Character_BP_C",ToClassName="Dodo_Character_BP_C")
+bPassiveDefensesDamageRiderlessDinos=True
+bDisableStructurePlacementCollision=True
+defaultMap=Ragnarok
+MatingIntervalMultiplier=3.5
+EggHatchSpeedMultiplier=7.5
+BabyMatureSpeedMultiplier=7.5
+StructureDamageRepairCooldown=60
+SupplyCrateLootQualityMultiplier=1.1
+BabyCuddleIntervalMultiplier=0.5
+BabyCuddleGracePeriodMultiplier=2
+
